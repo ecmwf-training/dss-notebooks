@@ -476,3 +476,4 @@ test.ipynb
 *.grib
 *.grib*.idx
 *.nc
+*.zip
